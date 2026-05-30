@@ -6,6 +6,13 @@ A simple 2D endless runner car game built with Python and Kivy.
 
 This project is an image-based 2D car runner game where the player controls a car and avoids incoming obstacles. The game features continuous scrolling backgrounds, score tracking, obstacle spawning, pause functionality, and background music.
 
+## Game Overview
+
+<p align="center">
+  <img src="output1.png" width="300">
+  <img src="output2.png" width="300">
+</p>
+
 ## Features
 
 * 2D endless runner gameplay
@@ -78,3 +85,6 @@ Hitanshu Meshram
 ## License
 
 This project is open-source and available for learning and personal use.
+
+
+
