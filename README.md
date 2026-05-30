@@ -1,4 +1,4 @@
-# Endless Runner Car Game 🚗
+# Endless Car Game 🚗
 
 A simple 2D endless runner car game built with Python and Kivy.
 
