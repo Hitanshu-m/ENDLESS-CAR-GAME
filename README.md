@@ -73,7 +73,7 @@ The player must avoid obstacles appearing on the road. The longer you survive, t
 
 ## Author
 
-Developed by [Your Name]
+Hitanshu Meshram
 
 ## License
 
